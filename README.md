@@ -1,6 +1,13 @@
 <div align="center">
     <img src="banner.jpeg">
 </div>
+
+<h1 align="center">
+    <br>
+    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
+    <br>
+</h1>
+
 <h1 align=center><b>Hello 👋<br>I'm C0d3h01.
 
 &nbsp;<a href="https://telegram.me/c0d3h01"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
