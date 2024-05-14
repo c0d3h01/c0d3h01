@@ -19,10 +19,10 @@ Hi, my name is Harshal Sawant. I am:
 
 ---
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Experienced </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,github,vscode,linux,kotlin,androidstudio,nodejs" />
 </div>
 
 ---
