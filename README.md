@@ -36,7 +36,7 @@ Hi, my name is Harshal Sawant. I am:
 
 ---
 
-<h2 align="center">👁️ Profile Views Counter 👁️</h2>
+<h2 align="center">~ Profile Views Counter ~</h2>
 
 <div align="center">
     <a href="https://u8views.com/github/c0d3h01">
