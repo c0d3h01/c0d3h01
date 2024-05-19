@@ -16,13 +16,9 @@ Hi, my name is Harshal Sawant. I am:
     <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
 </div>
-
----
  
 <h2 align="center"> Experienced </h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,bash,github,vscode,linux,kotlin,androidstudio,nodejs" />
 </div>
-
----
