@@ -26,22 +26,3 @@ Hi, my name is Harshal Sawant. I am:
 </div>
 
 ---
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<div align=center>  
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c0d3h01" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3h01&langs_count=2" />
-</div>
-
----
-
-<h2 align="center">~ Profile Views Counter ~</h2>
-
-<div align="center">
-    <a href="https://u8views.com/github/c0d3h01">
-        <img src="https://u8views.com/api/v1/github/profiles/75412448/views/day-week-month-total-count.svg">
-    </a>
-</div>
-
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
