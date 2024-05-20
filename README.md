@@ -20,5 +20,5 @@ Hi, my name is Harshal Sawant. I am:
 <h2 align="center"> Experienced </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,github,vscode,linux,kotlin,androidstudio,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,bash,github,html,css,vscode,linux,kotlin,androidstudio,nodejs" />
 </div>
