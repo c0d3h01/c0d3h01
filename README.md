@@ -16,9 +16,9 @@
   </a>
 </div>
  
-<h3 align="center">~ Experienced</h3>
+<h3 align="center">~ Experienced Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,nodejs,c,cpp,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,nodejs,c,cpp" />
 </div>
 
 <br>
