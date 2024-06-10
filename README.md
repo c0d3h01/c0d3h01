@@ -3,22 +3,26 @@
 </h1>
 
 <div align="center">
-Hi, my name is Harshal Sawant. I am:
+    
+ **Hello,i'm Harshal Sawant (c0d3h01).**
 
-🇮🇳 He/Him from India
-
-💻 A passionate guy from India with some knowledge of Android & Magisk Module Development
+**A computer student from india (Bharat).**
 
 </div>
 
 <div align="center"> 
-  <a href="https://t.me/c0d3h01">
-    <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
+  <a href="harshalsawant2004h@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
 </div>
  
-<h2 align="center"> Experienced </h2>
-
+<h3 align="center">~ Experienced</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,github,html,css,vscode,linux,kotlin,androidstudio,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,nodejs,c,cpp,vscode,linux" />
 </div>
+
+<br>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0d3h01&show_icons=true&theme=radical)
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3h01&layout=compact&theme=radical)
