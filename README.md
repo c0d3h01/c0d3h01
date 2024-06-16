@@ -20,10 +20,3 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,bash,html,css,nodejs,c,cpp" />
 </div>
-
-<br>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0d3h01&show_icons=true&theme=radical)
-
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3h01&layout=compact&theme=radical)
-![Profile visit badge](https://komarev.com/ghpvc/?username=c0d3h01&style=flat-square)
