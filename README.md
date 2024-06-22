@@ -6,7 +6,7 @@
     
  **Hello,i'm Harshal Sawant (c0d3h01).**
 
-**A computer student from india (Bharat).**
+**A computer student from india.**
 
 </div>
 
@@ -16,7 +16,7 @@
   </a>
 </div>
  
-<h3 align="center">~ Experienced Languages</h3>
+<h3 align="center"> Experienced Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,nodejs,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,bash,nodejs,c,cpp" />
 </div>
