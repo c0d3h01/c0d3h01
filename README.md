@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2500&lines=Hi+There!+👋;+I'm+C0D3H01!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2500&lines=Hi+There!+👋;+I'm+Harshal" />
 </h1>
 
 <div align="center">
     
- **Hello,i'm Harshal Sawant (c0d3h01).**
+**Hello,i'm Harshal Sawant (devhaarshal).**
 
 **A computer student from india.**
 
@@ -16,7 +16,7 @@
   </a>
 </div>
  
-<h3 align="center"> Experienced Languages</h3>
+<h3 align="center">Experienced Languages</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,bash,nodejs,c,cpp" />
 </div>
