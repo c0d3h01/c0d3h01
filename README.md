@@ -3,9 +3,9 @@
 </h1>
 
 ## Hey There!👋
-- Hello,i'm Harshal Sawant (devhaarshal).
+- Hello, i'm Harshal Sawant (c0d3h01).
 - A computer student from india.
-- Currently focus on learning launguages, exploring stuffs related softwares.
+- Currently i am focusing on learning launguages, exploring stuffs related softwares.
 
 ## Contact with mail.✉️
   <a href="mailto:harshalsawant2004h@gmail.com">
