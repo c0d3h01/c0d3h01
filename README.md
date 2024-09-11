@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Harshal+Sawant;Welcome+to+my+GitHub!" />
 </h1>
 
-<h3 align="center">Aspiring Software Developer | BCA Student | Continuous Learner</h3>
+<h3 align="center">BCA Student | Learner</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=c0d3h01&color=blueviolet" alt="Profile views" />
