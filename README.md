@@ -4,7 +4,6 @@
 - 🎓 Currently pursuing a Bachelor's in Computer Application.
 - 🌱 Passionate about learning various programming languages and exploring new technologies.
 - 🚀 Working on making software better.
-- 😄 Pronouns: he/him
 
 ## 🤝 Let's Connect.
 <br>
