@@ -30,4 +30,4 @@
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3h01&layout=compact&theme=dark)
 
-<a href="https://www.buymeacoffee.com/harshalsaww"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=harshalsaww&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/harshalsaww"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book, needed&emoji=📖&slug=harshalsaww&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
