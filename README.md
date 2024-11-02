@@ -1,5 +1,5 @@
 ### Hey there
-I am Harshal Sawant, a passionate developer from India. Currently pursuing a Bachelor's in Computer Application. Passionate about learning various programming languages and exploring new technologies. Working on making great software ;)
+I am Harshal Sawant, a passionate developer from India. Currently pursuing a Bachelor's in Computer Application. Passionate about learning various programming languages and exploring new technologies. Working on creating great softwares ;)
 
 ### contact
 <p align="center">
