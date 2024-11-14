@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/103576293/236801460-f0b90a6f-5b7c-4704-9d19-c95ba928b1ce.gif" width="200" height="200" />
   <h1>Hi there, I'm Harshal Sawant 👋</h1>
-  <h3>A Passionate Full-Stack Developer from India</h3>
+  <h3>A Passionate Developer from India</h3>
 </div>
 
 <p align="center">
@@ -16,6 +15,7 @@
 - 💻 Passionate about learning various programming languages and exploring new technologies
 - 🌟 Dedicated to creating amazing software that makes a difference
 - 🌍 Eager to collaborate on innovative projects
+- 📝 Currently focusing on my college studies, including programming language learning.
 
 ### Skills 🛠️
 
