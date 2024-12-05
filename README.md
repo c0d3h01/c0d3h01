@@ -1,27 +1,14 @@
-# Hey there!, I'm Harshal 👋
-
-I'm a self-taught passionate developer from India 🇮🇳
-
-## About Me 🚀
+## Hi, I’m Harshal 👋
 
 - 🎓 Pursuing a Bachelor's in Computer Application
-- 💻 Passionate about learning various programming languages and exploring new technologies
+- 👀 I’m interested in the learning curve with developments
+- 🌱 I’m currently learning java
+- 💞️ I’m not looking to collaborate on anything right now
+- 📫 You can reach me by making a PR on my profile repo.[here](https://github.com/c0d3h01/c0d3h01/issues/new)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a self-taught learner
 
-### Connect with Me 🤝
-
-<p align="left">
-  <a href="mailto:harshalsawant2004h@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/haarshalsawant">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/haarshalsawant">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-## GitHub Stats 📊
+### GitHub Stats 📊
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0d3h01&show_icons=true&theme=radical)
 
