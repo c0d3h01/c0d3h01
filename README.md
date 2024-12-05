@@ -4,7 +4,7 @@
 - 👀 I’m interested in the learning curve with developments
 - 🌱 I’m currently learning java
 - 💞️ I’m not looking to collaborate on anything right now
-- 📫 You can reach me by making a PR on my profile repo.[here](https://github.com/c0d3h01/c0d3h01/issues/new)
+- 📫 You can reach me by making a issue on my profile repo.[here](https://github.com/c0d3h01/c0d3h01/issues/new)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a self-taught learner
 
