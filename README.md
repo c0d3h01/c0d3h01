@@ -10,8 +10,9 @@
 ```
 ---
 
-### Contact me
 <div align="center">
+
+### Connect with Me
 
 [<img src="readme-res/email.png" height="50" />](mailto:harshalsawant2004h@gmail.com) &nbsp;
 [<img src="readme-res/telegram.png" height="50" />](https://t.me/c0d3h01) &nbsp;
