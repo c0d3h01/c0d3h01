@@ -14,7 +14,7 @@
 
 ### Connect with Me
 
-[<img src="readme-res/email.png" height="50" />](mailto:harshalsawant2004h@gmail.com) &nbsp;
+[<img src="readme-res/gmail.png" height="50" />](mailto:harshalsawant2004h@gmail.com) &nbsp;
 [<img src="readme-res/telegram.png" height="50" />](https://t.me/c0d3h01) &nbsp;
 [<img src="readme-res/discord.png" height="50" />](https://discordapp.com/users/c0d3h01) &nbsp;
 [<img src="readme-res/linkedin.png" height="50" />](https://discordapp.com/users/c0d3h01) &nbsp;
