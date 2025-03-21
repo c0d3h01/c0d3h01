@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Harshal and I'm a Software developer, from india</h2>
+<h2 align="center">👋 Hey there! I'm Harshal from india 🇮🇳</h2>
 
 ###
 
@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/c0d3h01/count.svg?"  />
+  <p> ↑ since 21/03/2025</p>
 </div>
 
 ###
