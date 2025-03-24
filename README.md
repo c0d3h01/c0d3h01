@@ -23,9 +23,6 @@ I'm Harshal from <b>india<b> <img src="https://github.com/user-attachments/asset
   <a href="https://stackoverflow.com/users/25191608/harshal-sawant" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.instagram.com/haarshalsawant/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
