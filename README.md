@@ -1,11 +1,11 @@
 <h1> Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> there!</h1>
 
-**indian** <img src="https://github.com/user-attachments/assets/4b40047f-b35b-45e1-9c1f-e114f3a70a2d" width="25" />
+**Indian** <img src="https://github.com/user-attachments/assets/4b40047f-b35b-45e1-9c1f-e114f3a70a2d" width="25" />
 
 **Hey, I'm Harshal Sawant (c0d3h01)!** 🚀  
-A passionate developer diving deep into **system programming, Linux, and full-stack development**.  
-I work on **high-performance software, custom Linux setups, and optimization tools**.  
-Always exploring **low-level computing, Rust, and automation** to build powerful and scalable solutions.  
+A passionate developer immersed in **system programming, Linux, and full-stack development**.  
+I thrive on building **high-performance software**.  
+Constantly exploring **low-level computing, Rust, and automation** to craft scalable and efficient solutions.  
 
 ## **📫 Connect with Me**
 - **Email:** [c0d3h01@gmail.com](mailto:c0d3h01@gmail.com)
