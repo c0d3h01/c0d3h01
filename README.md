@@ -3,7 +3,7 @@
 **Indian** <img src="https://github.com/user-attachments/assets/4b40047f-b35b-45e1-9c1f-e114f3a70a2d" width="25" />
 
 **Hey, I'm Harshal Sawant (c0d3h01)!** 🚀  
-A passionate developer immersed in **system programming, Linux, and full-stack development**.  
+A passionate developer immersed in **system programming, and full-stack development**.  
 I thrive on building **high-performance software**.  
 Constantly exploring **low-level computing, Rust, and automation** to craft scalable and efficient solutions.  
 
