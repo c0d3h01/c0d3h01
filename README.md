@@ -103,7 +103,7 @@ class HarshalSawant:
 ## 📬 Contact & Links
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haarshalsawant)
-- ✉️ haarshalsawant@gmail.com
+- ✉️ [harshalsawant.dev@gmail.com](mailto:harshalsawant.dev@gmail.com)
 - 🐦 [Twitter](https://twitter.com/haarshalsawant)
 
 ---
