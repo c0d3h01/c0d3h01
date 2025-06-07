@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Harshal Sawant 🚀</h1>
 
 <p align="center">
-  <a href="https://portfolio.example.com" target="_blank">
+  <a href="https://c0d3h01.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-00C896?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=black" alt="Portfolio" style="margin: 0 12px; font-size: 1.3em;">
   </a>
-  <a href="https://drive.example.com/harshal_resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1mods4tor5wEdzq2JrGNh5JVe70e8tvj9/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-0072E5?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=black" alt="Resume" style="margin: 0 12px; font-size: 1.3em;">
   </a>
 </p>
@@ -13,9 +13,9 @@
   <b>Software Engineer</b> • <b>Python & Rust Enthusiast</b> • <b>AI/ML Explorer</b>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-sawant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:harshal.sawant@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/harshal_sawant"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/haarshalsawant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:harshalsawant.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/haarshalsawant"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
 </p>
 
 ---
@@ -102,9 +102,9 @@ class HarshalSawant:
 
 ## 📬 Contact & Links
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/harshal-sawant)
-- ✉️ harshal.sawant@example.com
-- 🐦 [Twitter](https://twitter.com/harshal_sawant)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/haarshalsawant)
+- ✉️ haarshalsawant@gmail.com
+- 🐦 [Twitter](https://twitter.com/haarshalsawant)
 
 ---
 
