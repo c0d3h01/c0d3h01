@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-00C896?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=black" alt="Portfolio" style="margin: 0 12px; font-size: 1.3em;">
   </a>
   <a href="https://drive.google.com/file/d/1mods4tor5wEdzq2JrGNh5JVe70e8tvj9/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-0072E5?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=black" alt="Resume" style="margin: 0 12px; font-size: 1.3em;">
+    <img src="https://img.shields.io/badge/View%20Resume-0072E5?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=black" alt="Resume" style="margin: 0 12px; font-size: 1.3em;">
   </a>
 </p>
 
