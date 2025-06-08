@@ -105,9 +105,3 @@ class HarshalSawant:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/haarshalsawant)
 - ✉️ [harshalsawant.dev@gmail.com](mailto:harshalsawant.dev@gmail.com)
 - 🐦 [Twitter](https://twitter.com/haarshalsawant)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
