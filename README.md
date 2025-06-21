@@ -1,79 +1,49 @@
-<h1 align="center">Hi, I'm Harshal Sawant 🚀</h1>
+# Hey there! 👋
 
-<p align="center">
-  <a href="https://c0d3h01.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-00C896?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=black" alt="Portfolio" style="margin: 0 12px; font-size: 1.3em;">
-  </a>
-  <a href="https://drive.google.com/file/d/1mods4tor5wEdzq2JrGNh5JVe70e8tvj9/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-0072E5?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=black" alt="Resume" style="margin: 0 12px; font-size: 1.3em;">
-  </a>
-</p>
+I’m **Harshal Sawant**, interested in backend systems, AI/ML, and open-source. I love building projects, learning new technologies, and sharing my work.
 
-<p align="center">
-  <b>Computer Science</b> • <b>Python & Rust Enthusiast</b> • <b>AI/ML Explorer</b>
-</p>
+## 🎓 Education
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/haarshalsawant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:harshalsawant.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/haarshalsawant"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-</p>
+- B.Sc. Computer Applications
 
----
+<!-- ## 💼 Experience
 
-## 🛠️ Tech Stack
+- **Backend Developer**: Designed and deployed scalable APIs for AI/ML pipelines and data-driven platforms.
+- **AI/ML Explorer**: Integrated ML models into production systems, focusing on efficiency and maintainability.
+- **Open Source Contributor**: Regularly contribute to and maintain open-source projects in Python, Rust, and cloud-native tooling. -->
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## 🛠️ Technical Skills
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+### Languages
 
-</td>
-<td valign="top" width="33%">
+![Python](https://img.shields.io/badge/-Python-222?style=flat-square&logo=python&logoColor=FFD43B)
+![Rust](https://img.shields.io/badge/-Rust-222?style=flat-square&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-222?style=flat-square&logo=nixos&logoColor=7EBAE4)
+![C++](https://img.shields.io/badge/-C++-222?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/-Bash-222?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=flat&logo=rust&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+![FastAPI](https://img.shields.io/badge/-FastAPI-222?style=flat-square&logo=fastapi&logoColor=00C896)
+![Actix Web](https://img.shields.io/badge/-Actix%20Web-222?style=flat-square&logo=rust&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-222?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-222?style=flat-square&logo=pandas&logoColor=150458)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+### DevOps & Databases
 
-</td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/-Docker-222?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-222?style=flat-square&logo=github-actions&logoColor=2088FF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?style=flat-square&logo=postgresql&logoColor=316192)
 
----
+### Operating Systems
 
-## 📈 GitHub Stats
+![Linux](https://img.shields.io/badge/-Linux-222?style=flat-square&logo=linux&logoColor=FCC624)
+![NixOS](https://img.shields.io/badge/-NixOS-222?style=flat-square&logo=nixos&logoColor=5277C3)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0d3h01&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0d3h01&theme=tokyonight" width="45%"/>
-</p>
+## 🖎 Projects
 
----
+### [LLM-QA Backend](https://github.com/c0d3h01/llm-qa-system)
 
-## 🚧Projects
-
-<details>
-<summary>🔍 <b>LLM-QA Backend</b></summary>
-
-- Modular backend for LLM-powered question answering
-- Scalable, containerized, and production-ready
-- Integrates Python ML models with Rust APIs
-- **Tech:** Rust (actix-web), Python (FastAPI), Docker, PostgreSQL
-</details>
-
----
+> - LLM-powered question answering systems.
+> - Integrated ML models with robust APIs suitable for high-availability environments.
+> - Built with Rust (Actix Web) and Python (FastAPI).
